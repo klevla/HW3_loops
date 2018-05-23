@@ -38,7 +38,7 @@ console.log(count);
 
 // 5. удалены пробелы. все слова с большой
 
-let str = 'javaScript is a pretty good language';
+let str = 'JavaScript is a pretty good language';
 let strCamel = '';
 
 for (let i = 0; i < str.length; i++) {
